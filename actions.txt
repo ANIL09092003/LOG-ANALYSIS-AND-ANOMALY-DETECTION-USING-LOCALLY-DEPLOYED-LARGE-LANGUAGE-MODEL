@@ -1,0 +1,2 @@
+1. Take input filename as Command Line Input
+2. Along with Stream output to Standard console, store the response in a File too.

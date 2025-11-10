@@ -1,0 +1,3100 @@
+﻿Level	Date and Time	Source	Event ID	Task Category
+Service Name:  McAfee Scheduled Task - (McAfee Scheduled Task - (mc-sustainability))
+Service File Name:  ""MASKED_FILE_PATH_89""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	06-08-2025 23:17:50	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_161
+ and MASKED_APPID_165
+ to the user MASKED_DOMAIN_USER_8 SID (MASKED_SID_88-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	06-08-2025 22:54:04	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_161
+ and MASKED_APPID_165
+ to the user MASKED_DOMAIN_USER_8 SID (MASKED_SID_88-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Service Name:  KslD
+Service File Name:  MASKED_DOMAIN_USER_9\MASKED_DOMAIN_USER_10
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+Warning	06-08-2025 22:11:44	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.WscBrokerManager
+ and APPID 
+Unavailable
+ to the user NT MASKED_DOMAIN_USER_11 SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	06-08-2025 22:11:44	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.SecurityAppBroker
+ and APPID 
+Unavailable
+ to the user NT MASKED_DOMAIN_USER_11 SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	06-08-2025 22:11:00	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 11 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Warning	06-08-2025 22:11:00	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 7 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	06-08-2025 22:10:35	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	06-08-2025 22:10:35	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Win32Error: 0
+Start time: ‎2025‎-‎08‎-‎06T16:40:30.958582700Z
+Grace period: 51840000000000
+Due time: ‎2025‎-‎10‎-‎05T16:40:30.958582700Z
+"
+Warning	06-08-2025 22:10:13	Netwtw14	6062	None	6062 - Lso was triggered
+Module Path: MASKED_FILE_PATH_91
+"
+"
+ Please see MASKED_FILE_PATH_92"
+Error	06-08-2025 22:09:55	Service Control Manager	7000	None	"The igccservice service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+Error	06-08-2025 22:09:55	Service Control Manager	7009	None	A timeout was reached (45000 milliseconds) while waiting for the igccservice service to connect.
+Error	06-08-2025 22:09:55	Microsoft-Windows-Eventlog	22	Service startup	The event logging service encountered an error while initializing publishing resources for channel Microsoft-Windows-USBVideo/Analytic. If channel type is Analytic or Debug, then this could mean there was an error initializing logging resources as well.
+For more information please see MASKED_URL_136
+"
+MinimumPasswordLength: 0
+RelaxMinimumPasswordLengthLimits: 0
+MinimumPasswordLengthAudit: -1
+For more information see MASKED_URL_137
+"
+For more information please see MASKED_URL_138"
+Hardware Requirements for Virtualization Based Security:	1
+Domain Joined:	0
+Azure AD Joined:	0
+ Licensed for Credential Guard:	0
+Domain Controller:	0"
+Registry Configuration: 0x0
+Test Configuration: 0
+Auto Enablement: 0"
+HRESULT: STATUS_SUCCESS
+New timer needed: true
+New timer waiting for system update completion: true
+Previous latch timer exists but disabled by registry: false
+"
+HRESULT: The operation completed successfully.
+Previous timer present: false
+Start time: ‎1601‎-‎01‎-‎01T00:00:00.000000000Z
+Grace period: 0
+Attempted recovery enforcement succeeded: false
+"
+HRESULT: The operation completed successfully.
+New latch timer needed: false
+New latch timer waiting for system update completion: false
+Previous latch timer exists but disabled by registry: false
+Policy file exists: false
+"
+Warning	06-08-2025 22:09:51	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DOMAIN_USER_18&MASKED_DOMAIN_USER_19
+Status: 0xC0000365"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 28
+Minimum throttle percentage: 4"
+Warning	06-08-2025 22:09:48	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DEVICE_ID_170\3&11583659&0&20
+Status: 0xC0000365"
+Reason: Leap second data initialized from registry during boot
+Leap seconds enabled: true
+New leap second count: 0
+Old leap second count: 0"
+Warning	06-08-2025 22:09:44	Microsoft-Windows-Hyper-V-Hypervisor	167	None	The hypervisor did not enable mitigations for side channel vulnerabilities for virtual machines because HyperThreading is enabled. To enable mitigations for virtual machines, disable HyperThreading.
+Processor not affected: true
+Processor family not affected: false
+Processor supports microarchitectural buffer flush: true
+Buffer flush needed: true
+"
+Processor not affected: true
+Processor family not affected: false
+Processor supports cache flush: true
+HyperThreading enabled: false
+Parent hypervisor applies mitigations: false
+Mitigations disabled by bcdedit: false
+Mitigations enabled: true
+Cache flush needed: false
+"
+Hardware present: true
+Hardware enabled: true
+Policy: 0x0
+Enabled features: 0x43
+Internal information: 0x0
+Problems: 0x0
+Additional information: 0x0"
+Loader time: ‎2025‎-‎08‎-‎06T16:39:42.000000000Z
+Internal boot flags: 0x2
+HAL RTC error code: 0x0
+RTC time is in UTC: false
+Soft boot: false
+Success: true
+Phase: 0"
+Action: Power Action Reboot 
+Event Code: 0x0 
+Reason: Kernel API"
+"
+Warning	06-08-2025 22:09:29	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+Time Delta: 13 ms
+Change Reason: An application or system component changed the time.
+Process: 'MASKED_PROCESS_PATH_171' (PID 8308).
+RTC time: ‎2025‎-‎08‎-‎06T22:09:29.078460200Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Warning	06-08-2025 22:08:33	winsrvext	100	None	Process MASKED_FILE_PATH_93
+Error	06-08-2025 22:08:28	Microsoft-Windows-DistributedCOM	10010	None	The server {MASKED_GUID_146} did not register with DCOM within the required timeout.
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Reason PolicyChange 
+BootId: 21"
+Reason: Lid."
+Warning	06-08-2025 22:07:53	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	06-08-2025 22:07:53	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Error	06-08-2025 22:06:23	Microsoft-Windows-DistributedCOM	10010	None	The server {MASKED_GUID_147} did not register with DCOM within the required timeout.
+Error	06-08-2025 22:05:15	Microsoft-Windows-DistributedCOM	10010	None	The server {MASKED_GUID_146} did not register with DCOM within the required timeout.
+Reason PolicyChange 
+BootId: 21"
+Reason: Lid."
+Reason PolicyChange 
+BootId: 21"
+Warning	06-08-2025 22:02:52	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	06-08-2025 22:02:52	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	06-08-2025 21:12:24	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_161
+ and MASKED_APPID_165
+ to the user MASKED_DOMAIN_USER_8 SID (MASKED_SID_88-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	06-08-2025 21:11:54	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 21:11:43	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name learnflu-api.edmingle.com timed out after none of the configured DNS servers responded. Client PID 18276.
+Warning	06-08-2025 21:11:12	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name cp601.prod.do.dsp.mp.microsoft.com timed out after none of the configured DNS servers responded. Client PID 15168.
+Warning	06-08-2025 21:10:43	Netwtw14	6062	None	6062 - Lso was triggered
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	06-08-2025 21:10:24	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name content-autofill.googleapis.com timed out after none of the configured DNS servers responded. Client PID 18276.
+Warning	06-08-2025 21:10:01	Netwtw14	6062	None	6062 - Lso was triggered
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	06-08-2025 21:06:29	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 21:04:53	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name MASKED_URL_139 timed out after none of the configured DNS servers responded. Client PID 2076.
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	06-08-2025 21:04:16	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name config.edge.skype.com timed out after none of the configured DNS servers responded. Client PID 4836.
+Sleep Time: ‎2025‎-‎08‎-‎06T15:14:21.701709500Z
+Wake Time: ‎2025‎-‎08‎-‎06T15:31:59.809953100Z
+Wake Source: Unknown"
+Warning	06-08-2025 21:02:00	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	06-08-2025 21:02:00	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+ Please see MASKED_FILE_PATH_94"
+Reason PolicyChange 
+BootId: 21"
+Reason: Lid."
+Reason: Sleep, Hibernate, or Shutdown."
+Reason SxTransition 
+BootId: 21"
+Error	06-08-2025 21:01:59	Microsoft-Windows-NDIS	10317	PnP	Miniport Microsoft Wi-Fi Direct Virtual Adapter #2, {MASKED_GUID_148}, had event Fatal error: The miniport has failed a power transition to operational power
+Warning	06-08-2025 21:01:59	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	06-08-2025 21:01:59	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Time Delta: 1054898 ms
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+RTC time: ‎2025‎-‎08‎-‎06T21:01:59.500000000Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Sleep Reason: Application API"
+Time Delta: 0 ms
+Change Reason: An application or system component changed the time.
+Process: 'MASKED_PROCESS_PATH_171' (PID 8308).
+RTC time: ‎2025‎-‎08‎-‎06T20:44:22.195488200Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Reason PolicyChange 
+BootId: 21"
+Warning	06-08-2025 20:44:06	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	06-08-2025 20:44:06	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	06-08-2025 20:44:06	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Error	06-08-2025 20:44:04	Microsoft-Windows-DistributedCOM	10010	None	The server {MASKED_GUID_142} did not register with DCOM within the required timeout.
+Warning	06-08-2025 20:34:29	Netwtw14	6062	None	6062 - Lso was triggered
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	06-08-2025 20:33:23	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name apis.mcafee.com timed out after none of the configured DNS servers responded. Client PID 4332.
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	06-08-2025 20:27:21	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name time.windows.com timed out after none of the configured DNS servers responded. Client PID 4704.
+Warning	06-08-2025 20:27:20	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:27:18	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name storage.live.com timed out after none of the configured DNS servers responded. Client PID 17060.
+Warning	06-08-2025 20:27:12	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:27:05	Netwtw14	6062	None	6062 - Lso was triggered
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	06-08-2025 20:27:03	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:27:00	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:26:54	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:26:51	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name sadownload.mcafee.com timed out after none of the configured DNS servers responded. Client PID 16304.
+Warning	06-08-2025 20:26:42	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:26:39	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:26:36	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:26:35	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:26:30	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name einstein-core.awscommon.mcafee.com timed out after none of the configured DNS servers responded. Client PID 4332.
+Warning	06-08-2025 20:26:21	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:26:17	Netwtw14	6062	None	6062 - Lso was triggered
+Error	06-08-2025 20:26:09	Service Control Manager	7046	None	"The following service has repeatedly stopped responding to service control requests: Galaxy Book Experience
+Contact the service vendor or the system administrator about whether to disable this service until the problem is identified.
+You may have to restart the computer in safe mode before you can disable the service."
+Warning	06-08-2025 20:26:07	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:26:05	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:26:04	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name time-a-g.nist.gov timed out after none of the configured DNS servers responded. Client PID 4704.
+Warning	06-08-2025 20:25:58	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name slscr.update.microsoft.com timed out after none of the configured DNS servers responded. Client PID 8196.
+Warning	06-08-2025 20:25:55	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:25:52	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:25:51	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name g.live.com timed out after none of the configured DNS servers responded. Client PID 14540.
+Warning	06-08-2025 20:25:45	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:25:43	Netwtw14	6062	None	6062 - Lso was triggered
+Error	06-08-2025 20:25:39	Service Control Manager	7011	None	A timeout (30000 milliseconds) was reached while waiting for a transaction response from the GBExperience service.
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	06-08-2025 20:25:38	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name download.mcafee.com timed out after none of the configured DNS servers responded. Client PID 4332.
+Warning	06-08-2025 20:25:36	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:25:25	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:25:20	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name geo.prod.do.dsp.mp.microsoft.com timed out after none of the configured DNS servers responded. Client PID 15168.
+Warning	06-08-2025 20:25:20	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	06-08-2025 20:25:11	Netwtw14	6062	None	6062 - Lso was triggered
+Error	06-08-2025 20:25:09	Service Control Manager	7011	None	A timeout (30000 milliseconds) was reached while waiting for a transaction response from the GBExperience service.
+Warning	06-08-2025 20:24:57	Microsoft-Windows-Time-Service	134	None	NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)
+Warning	06-08-2025 20:24:57	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name time.windows.com timed out after none of the configured DNS servers responded. Client PID 8308.
+Service Name:  Intel® PROSet/Wireless Service
+Service File Name:  ""MASKED_FILE_PATH_95""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Module Path: MASKED_FILE_PATH_91
+"
+Warning	06-08-2025 20:24:56	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+Warning	06-08-2025 20:24:53	Microsoft-Windows-WLAN-AutoConfig	4003	None	"WLAN AutoConfig detected limited connectivity, attempting automatic recovery.
+Recovery Type: 4
+Error Code: 0x0
+Trigger Reason: 5
+IP Family: 0
+"
+Error	06-08-2025 20:24:39	Service Control Manager	7011	None	A timeout (30000 milliseconds) was reached while waiting for a transaction response from the GBExperience service.
+Warning	06-08-2025 20:24:39	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name kv801.prod.do.dsp.mp.microsoft.com timed out after none of the configured DNS servers responded. Client PID 15168.
+Warning	06-08-2025 20:24:37	Netwtw14	6062	None	6062 - Lso was triggered
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	06-08-2025 20:24:12	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name 1D.tlu.dl.delivery.mp.microsoft.com timed out after none of the configured DNS servers responded. Client PID 15168.
+Error	06-08-2025 20:24:09	Service Control Manager	7011	None	A timeout (30000 milliseconds) was reached while waiting for a transaction response from the GBExperience service.
+Error	06-08-2025 20:23:39	Service Control Manager	7011	None	A timeout (30000 milliseconds) was reached while waiting for a transaction response from the GBExperience service.
+Warning	06-08-2025 20:23:28	Microsoft-Windows-Time-Service	134	None	NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)
+Error	06-08-2025 20:23:09	Service Control Manager	7011	None	A timeout (30000 milliseconds) was reached while waiting for a transaction response from the GBExperience service.
+ Please see MASKED_FILE_PATH_96"
+Warning	06-08-2025 20:22:44	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	06-08-2025 20:22:44	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Sleep Time: ‎2025‎-‎08‎-‎02T12:23:36.128314600Z
+Wake Time: ‎2025‎-‎08‎-‎06T14:52:42.819024900Z
+Wake Source: Unknown"
+Error	06-08-2025 20:22:43	Microsoft-Windows-NDIS	10317	PnP	Miniport Microsoft Wi-Fi Direct Virtual Adapter #2, {MASKED_GUID_148}, had event Fatal error: The miniport has failed a power transition to operational power
+Warning	06-08-2025 20:22:42	Microsoft-Windows-Time-Service	134	None	NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)
+Reason PolicyChange 
+BootId: 21"
+Reason: Lid."
+Reason: Sleep, Hibernate, or Shutdown."
+Reason SxTransition 
+BootId: 21"
+Warning	06-08-2025 20:22:42	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	06-08-2025 20:22:42	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Time Delta: 354454710 ms
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+RTC time: ‎2025‎-‎08‎-‎06T20:22:42.500000000Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Sleep Reason: Application API"
+Error	02-08-2025 17:55:05	Service Control Manager	7011	None	A timeout (30000 milliseconds) was reached while waiting for a transaction response from the GBExperience service.
+Error	02-08-2025 17:54:35	Service Control Manager	7011	None	A timeout (30000 milliseconds) was reached while waiting for a transaction response from the GBExperience service.
+Error	02-08-2025 17:54:05	Service Control Manager	7011	None	A timeout (30000 milliseconds) was reached while waiting for a transaction response from the GBExperience service.
+Warning	02-08-2025 17:53:36	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	02-08-2025 17:53:36	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Reason ScreenOffGracePeriod 
+BootId: 21"
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+Warning	02-08-2025 17:50:30	Microsoft-Windows-DistributedCOM	10016	None	"The machine-default permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_163
+ and MASKED_APPID_167
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	02-08-2025 17:50:30	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	02-08-2025 17:50:30	Microsoft-Windows-DistributedCOM	10016	None	"The machine-default permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_163
+ and MASKED_APPID_167
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	02-08-2025 17:50:30	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	02-08-2025 17:44:13	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 11 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Warning	02-08-2025 17:44:13	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 7 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Error	02-08-2025 17:43:28	Microsoft-Windows-WindowsUpdateClient	20	Windows Update Agent	Installation Failure: Windows failed to install the following update with error 0x800F0823: 2025-07 Cumulative Update Preview for Windows 11 Version 24H2 for x64-based Systems (KB5062660) (26100.4770).
+Warning	02-08-2025 17:43:19	Netwtw14	6062	None	6062 - Lso was triggered
+Error	02-08-2025 17:43:10	Microsoft-Windows-Windows Firewall With Advanced Security	2042	None	"Config Read Failed
+Config:	18
+Error:	More data is available."
+Module Path: MASKED_FILE_PATH_91
+"
+"
+ Please see MASKED_FILE_PATH_97"
+Error	02-08-2025 17:43:08	Service Control Manager	7000	None	"The igccservice service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+Error	02-08-2025 17:43:08	Service Control Manager	7009	None	A timeout was reached (45000 milliseconds) while waiting for the igccservice service to connect.
+Error	02-08-2025 17:43:07	Microsoft-Windows-Eventlog	22	Service startup	The event logging service encountered an error while initializing publishing resources for channel Microsoft-Windows-USBVideo/Analytic. If channel type is Analytic or Debug, then this could mean there was an error initializing logging resources as well.
+For more information please see MASKED_URL_136
+"
+MinimumPasswordLength: 0
+RelaxMinimumPasswordLengthLimits: 0
+MinimumPasswordLengthAudit: -1
+For more information see MASKED_URL_137
+"
+For more information please see MASKED_URL_138"
+Hardware Requirements for Virtualization Based Security:	1
+Domain Joined:	0
+Azure AD Joined:	0
+ Licensed for Credential Guard:	0
+Domain Controller:	0"
+Registry Configuration: 0x0
+Test Configuration: 0
+Auto Enablement: 0"
+HRESULT: {Buffer Too Small}
+The buffer is too small to contain the entry. No information has been written to the buffer.
+New timer needed: true
+New timer waiting for system update completion: false
+Previous latch timer exists but disabled by registry: false
+"
+HRESULT: The operation completed successfully.
+Previous timer present: false
+Start time: ‎1601‎-‎01‎-‎01T00:00:00.000000000Z
+Grace period: 0
+Attempted recovery enforcement succeeded: false
+"
+HRESULT: The operation completed successfully.
+New latch timer needed: false
+New latch timer waiting for system update completion: false
+Previous latch timer exists but disabled by registry: false
+Policy file exists: false
+"
+Warning	02-08-2025 17:43:03	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DOMAIN_USER_18&MASKED_DOMAIN_USER_19
+Status: 0xC0000365"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 28
+Minimum throttle percentage: 4"
+Warning	02-08-2025 17:43:01	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DEVICE_ID_170\3&11583659&0&20
+Status: 0xC0000365"
+Reason: Leap second data initialized from registry during boot
+Leap seconds enabled: true
+New leap second count: 0
+Old leap second count: 0"
+Warning	02-08-2025 17:42:57	Microsoft-Windows-Hyper-V-Hypervisor	167	None	The hypervisor did not enable mitigations for side channel vulnerabilities for virtual machines because HyperThreading is enabled. To enable mitigations for virtual machines, disable HyperThreading.
+Processor not affected: true
+Processor family not affected: false
+Processor supports microarchitectural buffer flush: true
+Buffer flush needed: true
+"
+Processor not affected: true
+Processor family not affected: false
+Processor supports cache flush: true
+HyperThreading enabled: false
+Parent hypervisor applies mitigations: false
+Mitigations disabled by bcdedit: false
+Mitigations enabled: true
+Cache flush needed: false
+"
+Hardware present: true
+Hardware enabled: true
+Policy: 0x0
+Enabled features: 0x43
+Internal information: 0x0
+Problems: 0x0
+Additional information: 0x0"
+Loader time: ‎2025‎-‎08‎-‎02T12:12:54.000000000Z
+Internal boot flags: 0x2
+HAL RTC error code: 0x0
+RTC time is in UTC: false
+Soft boot: false
+Success: true
+Phase: 0"
+Action: Power Action Reboot 
+Event Code: 0x0 
+Reason: Kernel API"
+"
+Warning	02-08-2025 17:42:41	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+ Reason Code: 0x80020003
+ Shutdown Type: restart
+ Comment: "
+Error	02-08-2025 17:42:32	Service Control Manager	7023	None	"The Update Orchestrator Service service terminated with the following error: 
+%%2149884192"
+Warning	02-08-2025 17:42:26	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 11 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Warning	02-08-2025 17:42:26	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 7 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	02-08-2025 17:41:44	Netwtw14	6062	None	6062 - Lso was triggered
+Time Delta: 0 ms
+Change Reason: System time adjusted to the new time zone.
+Process: 'MASKED_PROCESS_PATH_172' (PID 3172).
+RTC time: ‎2025‎-‎08‎-‎02T17:41:43.476299500Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Error	02-08-2025 17:41:35	Service Control Manager	7000	None	"The igccservice service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+Error	02-08-2025 17:41:35	Service Control Manager	7009	None	A timeout was reached (45000 milliseconds) while waiting for the igccservice service to connect.
+Module Path: MASKED_FILE_PATH_91
+"
+"
+Error	02-08-2025 17:41:24	Microsoft-Windows-Windows Firewall With Advanced Security	2042	None	"Config Read Failed
+Config:	18
+Error:	More data is available."
+ Please see MASKED_FILE_PATH_98"
+Error	02-08-2025 17:41:21	Microsoft-Windows-Eventlog	22	Service startup	The event logging service encountered an error while initializing publishing resources for channel Microsoft-Windows-USBVideo/Analytic. If channel type is Analytic or Debug, then this could mean there was an error initializing logging resources as well.
+For more information please see MASKED_URL_136
+"
+MinimumPasswordLength: 0
+RelaxMinimumPasswordLengthLimits: 0
+MinimumPasswordLengthAudit: -1
+For more information see MASKED_URL_137
+"
+For more information please see MASKED_URL_138"
+Hardware Requirements for Virtualization Based Security:	1
+Domain Joined:	0
+Azure AD Joined:	0
+ Licensed for Credential Guard:	0
+Domain Controller:	0"
+Registry Configuration: 0x0
+Test Configuration: 0
+Auto Enablement: 0"
+HRESULT: The operation completed successfully.
+New timer needed: false
+New timer waiting for system update completion: false
+Previous latch timer exists but disabled by registry: false
+"
+HRESULT: The operation completed successfully.
+Previous timer present: false
+Start time: ‎1601‎-‎01‎-‎01T00:00:00.000000000Z
+Grace period: 0
+Attempted recovery enforcement succeeded: false
+"
+HRESULT: The operation completed successfully.
+New latch timer needed: false
+New latch timer waiting for system update completion: false
+Previous latch timer exists but disabled by registry: false
+Policy file exists: false
+"
+Warning	02-08-2025 17:41:16	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DOMAIN_USER_18&MASKED_DOMAIN_USER_19
+Status: 0xC0000365"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 28
+Minimum throttle percentage: 4"
+Warning	02-08-2025 17:41:14	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DEVICE_ID_170\3&11583659&0&20
+Status: 0xC0000365"
+Reason: Leap second data initialized from registry during boot
+Leap seconds enabled: true
+New leap second count: 0
+Old leap second count: 0"
+Warning	02-08-2025 17:41:10	Microsoft-Windows-Hyper-V-Hypervisor	167	None	The hypervisor did not enable mitigations for side channel vulnerabilities for virtual machines because HyperThreading is enabled. To enable mitigations for virtual machines, disable HyperThreading.
+Processor not affected: true
+Processor family not affected: false
+Processor supports microarchitectural buffer flush: true
+Buffer flush needed: true
+"
+Processor not affected: true
+Processor family not affected: false
+Processor supports cache flush: true
+HyperThreading enabled: false
+Parent hypervisor applies mitigations: false
+Mitigations disabled by bcdedit: false
+Mitigations enabled: true
+Cache flush needed: false
+"
+Hardware present: true
+Hardware enabled: true
+Policy: 0x0
+Enabled features: 0x43
+Internal information: 0x0
+Problems: 0x0
+Additional information: 0x0"
+Loader time: ‎2025‎-‎08‎-‎02T12:11:08.000000000Z
+Internal boot flags: 0x2
+HAL RTC error code: 0x0
+RTC time is in UTC: false
+Soft boot: false
+Success: true
+Phase: 0"
+Action: Power Action Reboot 
+Event Code: 0x0 
+Reason: Kernel API"
+"
+Warning	02-08-2025 17:40:55	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+Time Delta: 11 ms
+Change Reason: An application or system component changed the time.
+Process: 'MASKED_PROCESS_PATH_171' (PID 12292).
+RTC time: ‎2025‎-‎08‎-‎02T17:40:55.101244700Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Error	02-08-2025 17:40:55	Service Control Manager	7043	None	The Windows Security Service service did not shut down properly after receiving a preshutdown control.
+Error	02-08-2025 17:40:49	Microsoft-Windows-DistributedCOM	10005	None	"DCOM got error ""1115"" attempting to start the service wuauserv with arguments ""Unavailable"" in order to run the server:
+{MASKED_GUID_151}"
+Warning	02-08-2025 17:39:25	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	02-08-2025 17:38:28	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	02-08-2025 17:38:25	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	02-08-2025 17:38:18	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	02-08-2025 17:38:14	Netwtw14	6062	None	6062 - Lso was triggered
+Error	02-08-2025 17:38:09	Microsoft-Windows-DistributedCOM	10005	None	"DCOM got error ""1115"" attempting to start the service wuauserv with arguments ""Unavailable"" in order to run the server:
+{MASKED_GUID_151}"
+Error	02-08-2025 17:38:08	Microsoft-Windows-DistributedCOM	10005	None	"DCOM got error ""1115"" attempting to start the service wuauserv with arguments ""Unavailable"" in order to run the server:
+{MASKED_GUID_151}"
+Warning	02-08-2025 17:37:58	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name slscr.update.microsoft.com timed out after none of the configured DNS servers responded. Client PID 15644.
+Warning	02-08-2025 17:37:56	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	02-08-2025 17:37:53	Netwtw14	6062	None	6062 - Lso was triggered
+Error	02-08-2025 17:37:46	Microsoft-Windows-DistributedCOM	10005	None	"DCOM got error ""1115"" attempting to start the service wuauserv with arguments ""Unavailable"" in order to run the server:
+{MASKED_GUID_151}"
+Warning	02-08-2025 17:37:43	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	02-08-2025 17:37:37	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name fd.api.iris.microsoft.com timed out after none of the configured DNS servers responded. Client PID 6932.
+ Reason Code: 0x80020010
+ Shutdown Type: restart
+ Comment: "
+Warning	02-08-2025 17:37:17	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	02-08-2025 17:37:14	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.SecurityAppBroker
+ and APPID 
+Unavailable
+ to the user NT MASKED_DOMAIN_USER_11 SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	02-08-2025 17:37:14	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.WscBrokerManager
+ and APPID 
+Unavailable
+ to the user NT MASKED_DOMAIN_USER_11 SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Service Name:  Intel® PROSet/Wireless Service
+Service File Name:  ""MASKED_FILE_PATH_95""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Module Path: MASKED_FILE_PATH_91
+"
+Warning	02-08-2025 17:37:08	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+Warning	02-08-2025 17:37:07	Microsoft-Windows-WLAN-AutoConfig	4003	None	"WLAN AutoConfig detected limited connectivity, attempting automatic recovery.
+Recovery Type: 4
+Error Code: 0x0
+Trigger Reason: 5
+IP Family: 0
+"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	02-08-2025 17:36:54	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	02-08-2025 17:36:46	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	02-08-2025 17:36:31	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 11 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Warning	02-08-2025 17:36:31	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 7 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Service Name:  Intel® PROSet/Wireless Service
+Service File Name:  ""MASKED_FILE_PATH_95""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Module Path: MASKED_FILE_PATH_91
+"
+Warning	02-08-2025 17:36:09	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+Error	02-08-2025 17:36:08	Service Control Manager	7023	None	"The SysMain service terminated with the following error: 
+The parameter is incorrect."
+Service Name:  Samsung Continuity Service
+Service File Name:  ""MASKED_FILE_PATH_99""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Error	02-08-2025 17:35:47	Microsoft-Windows-WindowsUpdateClient	20	Windows Update Agent	Installation Failure: Windows failed to install the following update with error 0x80242016: 2025-07 Cumulative Update for .NET Framework 3.5 and 4.8.1 for Windows 11, version 24H2 for x64 (KB5056579).
+Service Name:  Samsung Account
+Service File Name:  ""MASKED_FILE_PATH_100""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  KslD
+Service File Name:  MASKED_DOMAIN_USER_9\MASKED_DOMAIN_USER_10
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+Module Path: MASKED_FILE_PATH_91
+"
+Warning	02-08-2025 17:35:35	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+Warning	02-08-2025 17:35:30	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	02-08-2025 17:35:30	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error	02-08-2025 17:35:26	Service Control Manager	7000	None	"The igccservice service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+Error	02-08-2025 17:35:26	Service Control Manager	7009	None	A timeout was reached (45000 milliseconds) while waiting for the igccservice service to connect.
+Module Path: MASKED_FILE_PATH_91
+"
+"
+ Please see MASKED_FILE_PATH_101"
+For more information please see MASKED_URL_136
+"
+MinimumPasswordLength: 0
+RelaxMinimumPasswordLengthLimits: 0
+MinimumPasswordLengthAudit: -1
+For more information see MASKED_URL_137
+"
+For more information please see MASKED_URL_138"
+Hardware Requirements for Virtualization Based Security:	1
+Domain Joined:	0
+Azure AD Joined:	0
+ Licensed for Credential Guard:	0
+Domain Controller:	0"
+Registry Configuration: 0x0
+Test Configuration: 0
+Auto Enablement: 0"
+Warning	02-08-2025 17:35:20	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DOMAIN_USER_18&MASKED_DOMAIN_USER_19
+Status: 0xC0000365"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 28
+Minimum throttle percentage: 4"
+Warning	02-08-2025 17:35:18	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DEVICE_ID_170\3&11583659&0&20
+Status: 0xC0000365"
+Reason: Leap second data initialized from registry during boot
+Leap seconds enabled: true
+New leap second count: 0
+Old leap second count: 0"
+Warning	02-08-2025 17:35:15	Microsoft-Windows-Hyper-V-Hypervisor	167	None	The hypervisor did not enable mitigations for side channel vulnerabilities for virtual machines because HyperThreading is enabled. To enable mitigations for virtual machines, disable HyperThreading.
+Processor not affected: true
+Processor family not affected: false
+Processor supports microarchitectural buffer flush: false
+Buffer flush needed: true
+"
+Processor not affected: true
+Processor family not affected: false
+Processor supports cache flush: true
+HyperThreading enabled: false
+Parent hypervisor applies mitigations: false
+Mitigations disabled by bcdedit: false
+Mitigations enabled: true
+Cache flush needed: false
+"
+Hardware present: true
+Hardware enabled: true
+Policy: 0x0
+Enabled features: 0x43
+Internal information: 0x0
+Problems: 0x0
+Additional information: 0x0"
+Loader time: ‎2025‎-‎08‎-‎02T12:05:12.000000000Z
+Internal boot flags: 0x2
+HAL RTC error code: 0x0
+RTC time is in UTC: false
+Soft boot: false
+Success: true
+Phase: 0"
+Action: Power Action Reboot 
+Event Code: 0x0 
+Reason: Kernel API"
+"
+Warning	02-08-2025 17:34:59	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+Error	02-08-2025 17:34:59	Microsoft-Windows-DeviceAssociationService	3503	(5000)	Device Association Service detected an endpoint discovery failure.
+Time Delta: 0 ms
+Change Reason: An application or system component changed the time.
+Process: 'MASKED_PROCESS_PATH_171' (PID 3020).
+RTC time: ‎2025‎-‎08‎-‎02T17:34:59.382937600Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Error	02-08-2025 17:34:58	Service Control Manager	7043	None	The Windows Update service did not shut down properly after receiving a preshutdown control.
+Error	02-08-2025 17:34:37	Microsoft-Windows-DistributedCOM	10010	None	The server {MASKED_GUID_142} did not register with DCOM within the required timeout.
+Reason InputAccelerometer 
+BootId: 18"
+Reason: Input Keyboard."
+Warning	02-08-2025 17:32:21	Microsoft-Windows-Time-Service	134	None	NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)
+Reason: Idle Timeout."
+Reason SessionUnlock 
+BootId: 18"
+Service Name:  McAfee Scheduled Task - (McAfee Scheduled Task - (mc-sustainability))
+Service File Name:  ""MASKED_FILE_PATH_89""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	02-08-2025 17:31:37	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	02-08-2025 17:31:37	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Sleep Time: ‎2025‎-‎08‎-‎01T18:43:03.805171000Z
+Wake Time: ‎2025‎-‎08‎-‎02T12:01:35.819109500Z
+Wake Source: Unknown"
+ Please see MASKED_FILE_PATH_102"
+Error	02-08-2025 17:31:36	Microsoft-Windows-NDIS	10317	PnP	Miniport Microsoft Wi-Fi Direct Virtual Adapter #2, {MASKED_GUID_148}, had event Fatal error: The miniport has failed a power transition to operational power
+Reason PolicyChange 
+BootId: 18"
+Reason: Lid."
+Reason: Sleep, Hibernate, or Shutdown."
+Reason SxTransition 
+BootId: 18"
+Warning	02-08-2025 17:31:35	Microsoft-Windows-Time-Service	134	None	NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)
+Warning	02-08-2025 17:31:35	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	02-08-2025 17:31:35	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Time Delta: 62308830 ms
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+RTC time: ‎2025‎-‎08‎-‎02T17:31:35.500000000Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Warning	02-08-2025 00:13:05	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	02-08-2025 00:13:05	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Sleep Reason: Application API"
+Time Delta: 8 ms
+Change Reason: An application or system component changed the time.
+Process: 'MASKED_PROCESS_PATH_171' (PID 3020).
+RTC time: ‎2025‎-‎08‎-‎02T00:13:04.188622500Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Reason InputAccelerometer 
+BootId: 18"
+Error	02-08-2025 00:12:59	Microsoft-Windows-DistributedCOM	10010	None	The server {MASKED_GUID_146} did not register with DCOM within the required timeout.
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	01-08-2025 22:39:56	Netwtw14	6062	None	6062 - Lso was triggered
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Reason InputAccelerometer 
+BootId: 18"
+Reason: Input Keyboard."
+Reason 55 
+BootId: 18"
+Reason: Austerity Battery Drain Budget Exceeded."
+Reason 55 
+BootId: 18"
+Reason: Austerity Battery Drain Budget Exceeded."
+Reason SessionUnlock 
+BootId: 18"
+Error	01-08-2025 21:25:29	Microsoft-Windows-WindowsUpdateClient	20	Windows Update Agent	Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NGW9K44GQ5F-SAMSUNGELECTRONICSCoLtd.SamsungContinuityService.
+Reason: Idle Timeout."
+Reason SessionUnlock 
+BootId: 18"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	01-08-2025 21:23:04	Netwtw14	6062	None	6062 - Lso was triggered
+Reason InputPoUserPresent 
+BootId: 18"
+Reason: Input Touchpad."
+Reason 55 
+BootId: 18"
+Reason: Austerity Battery Drain Budget Exceeded."
+Reason 55 
+BootId: 18"
+Reason: Austerity Battery Drain Budget Exceeded."
+Reason InputMouse 
+BootId: 18"
+Reason: AC/DC Display Burst Suppressed."
+Reason InputMouse 
+BootId: 18"
+Reason: AC/DC Display Burst Suppressed."
+Reason: Idle Timeout."
+Reason SessionUnlock 
+BootId: 18"
+Reason InputAccelerometer 
+BootId: 18"
+Reason: Input Keyboard."
+Reason: Idle Timeout."
+Reason SessionUnlock 
+BootId: 18"
+Error	01-08-2025 20:49:02	Microsoft-Windows-WindowsUpdateClient	20	Windows Update Agent	Installation Failure: Windows failed to install the following update with error 0x80073D02: 9P98T77876KZ-SAMSUNGELECTRONICSCO.LTD.SamsungAccount.
+Error	01-08-2025 20:40:26	Service Control Manager	7034	None	The Dolby DAX API Service service terminated unexpectedly.  It has done this 1 time(s).
+Reason InputAccelerometer 
+BootId: 18"
+Reason: Input Keyboard."
+Reason: Idle Timeout."
+Reason SessionUnlock 
+BootId: 18"
+Error	01-08-2025 20:38:20	Microsoft-Windows-WindowsUpdateClient	20	Windows Update Agent	Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NMPJ99VJBWV-Microsoft.YourPhone.
+Warning	01-08-2025 20:26:27	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_161
+ and MASKED_APPID_165
+ to the user MASKED_DOMAIN_USER_8 SID (MASKED_SID_88-1001) from address LocalHost (Using LRPC) running in the application container MicrosoftWindows.Client.WebExperience_525.15301.20.0_x64__cw5n1h2txyewy SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error	01-08-2025 20:20:35	Microsoft-Windows-WindowsUpdateClient	20	Windows Update Agent	Installation Failure: Windows failed to install the following update with error 0x80073D02: 9N0866FS04W8-DolbyLaboratories.DolbyAccess.
+Error	01-08-2025 20:17:58	Microsoft-Windows-WindowsUpdateClient	20	Windows Update Agent	Installation Failure: Windows failed to install the following update with error 0x80073D02: 9N3ZBH5V7HX6-SAMSUNGELECTRONICSCO.LTD.SmartThingsWindows.
+Warning	01-08-2025 20:17:36	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_161
+ and MASKED_APPID_165
+ to the user MASKED_DOMAIN_USER_8 SID (MASKED_SID_88-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Service Name:  McAfee Scheduled Task - (McAfee Scheduled Task - (mc-sustainability))
+Service File Name:  ""MASKED_FILE_PATH_89""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	01-08-2025 20:11:23	Netwtw14	6062	None	6062 - Lso was triggered
+Service Name:  Quick Share
+Service File Name:  ""MASKED_FILE_PATH_103""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  Second Screen
+Service File Name:  ""MASKED_FILE_PATH_104""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  Google Updater Service (GoogleUpdaterService140.0.7273.0)
+Service File Name:  ""MASKED_FILE_PATH_105"" --system --windows-service --service=update
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	01-08-2025 20:10:18	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	01-08-2025 20:10:18	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+ Please see MASKED_FILE_PATH_102"
+Error	01-08-2025 20:10:17	Microsoft-Windows-NDIS	10317	PnP	Miniport Microsoft Wi-Fi Direct Virtual Adapter #2, {MASKED_GUID_148}, had event Fatal error: The miniport has failed a power transition to operational power
+Reason PolicyChange 
+BootId: 18"
+Reason: Lid."
+Reason: Sleep, Hibernate, or Shutdown."
+Reason SxTransition 
+BootId: 18"
+Warning	01-08-2025 20:10:16	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	01-08-2025 20:10:16	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Time Delta: 2215649 ms
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+RTC time: ‎2025‎-‎08‎-‎01T20:10:16.500000000Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Sleep Reason: Application API"
+Time Delta: 0 ms
+Change Reason: An application or system component changed the time.
+Process: 'MASKED_PROCESS_PATH_171' (PID 3020).
+RTC time: ‎2025‎-‎08‎-‎01T19:33:18.380237800Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Reason PolicyChange 
+BootId: 18"
+Warning	01-08-2025 19:33:17	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	01-08-2025 19:33:17	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	01-08-2025 19:33:17	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Error	01-08-2025 19:33:13	Microsoft-Windows-DistributedCOM	10010	None	The server {MASKED_GUID_146} did not register with DCOM within the required timeout.
+Error	01-08-2025 19:27:17	Microsoft-Windows-WindowsUpdateClient	20	Windows Update Agent	Installation Failure: Windows failed to install the following update with error 0x80073D02: 9PCTGDFXVZLJ-SAMSUNGELECTRONICSCoLtd.SamsungQuickShare.
+Error	01-08-2025 19:11:27	Microsoft-Windows-WindowsUpdateClient	20	Windows Update Agent	Installation Failure: Windows failed to install the following update with error 0x80073D02: 9PLTXW5DX5KB-SAMSUNGELECTRONICSCoLtd.SecondScreen.
+Service Name:  Microsoft Defender Core Service
+Service File Name:  ""MASKED_FILE_PATH_106""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	01-08-2025 18:55:59	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_161
+ and MASKED_APPID_165
+ to the user MASKED_DOMAIN_USER_8 SID (MASKED_SID_88-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error	01-08-2025 18:54:28	Microsoft-Windows-WindowsUpdateClient	20	Windows Update Agent	Installation Failure: Windows failed to install the following update with error 0x80248007: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version MASKED_IP_ADDRESS_2) - Current Channel (Broad).
+Error	01-08-2025 18:54:21	Microsoft-Windows-WindowsUpdateClient	20	Windows Update Agent	Installation Failure: Windows failed to install the following update with error 0x80240016: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version MASKED_IP_ADDRESS_2) - Current Channel (Broad).
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Error	01-08-2025 18:51:44	Microsoft-Windows-WindowsUpdateClient	20	Windows Update Agent	Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NBLGGH43VHV-SAMSUNGELECTRONICSCoLtd.SamsungNotes.
+Error	01-08-2025 18:51:16	Microsoft-Windows-DistributedCOM	10010	None	The server {MASKED_GUID_152} did not register with DCOM within the required timeout.
+Service Name:  Google Updater Internal Service (GoogleUpdaterInternalService140.0.7273.0)
+Service File Name:  ""MASKED_FILE_PATH_105"" --system --windows-service --service=update-internal
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  Google Chrome Elevation Service (GoogleChromeElevationService)
+Service File Name:  ""MASKED_FILE_PATH_107""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  Google Updater Service (GoogleUpdaterService138.0.7194.0)
+Service File Name:  ""MASKED_FILE_PATH_108"" --system --windows-service --service=update
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  Google Updater Internal Service (GoogleUpdaterInternalService138.0.7194.0)
+Service File Name:  ""MASKED_FILE_PATH_108"" --system --windows-service --service=update-internal
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee Scheduled Task - (mc-sustainability))
+Service File Name:  ""MASKED_FILE_PATH_89""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  FileSyncHelper
+Service File Name:  ""MASKED_FILE_PATH_109""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  OneDrive Updater Service
+Service File Name:  ""MASKED_FILE_PATH_110""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	01-08-2025 18:36:37	Netwtw14	6062	None	6062 - Lso was triggered
+Service Name:  McAfee Scheduled Task - (McAfee Scheduled Task - (mc-sustainability))
+Service File Name:  ""MASKED_FILE_PATH_89""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Sleep Time: ‎2025‎-‎07‎-‎28T14:25:28.688695400Z
+Wake Time: ‎2025‎-‎08‎-‎01T13:03:27.813209900Z
+Wake Source: Unknown"
+Warning	01-08-2025 18:33:28	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	01-08-2025 18:33:28	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+ Please see MASKED_FILE_PATH_102"
+Warning	01-08-2025 18:33:27	Microsoft-Windows-Time-Service	134	None	NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)
+Reason PolicyChange 
+BootId: 18"
+Reason: Lid."
+Reason: Sleep, Hibernate, or Shutdown."
+Reason SxTransition 
+BootId: 18"
+Warning	01-08-2025 18:33:27	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	01-08-2025 18:33:27	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Time Delta: 340677054 ms
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+RTC time: ‎2025‎-‎08‎-‎01T18:33:27.500000000Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Sleep Reason: Application API"
+Reason WinRT 
+BootId: 18"
+Warning	28-07-2025 19:55:28	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	28-07-2025 19:55:28	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	28-07-2025 19:55:28	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Sleep Time: ‎2025‎-‎07‎-‎28T14:24:20.189425600Z
+Wake Time: ‎2025‎-‎07‎-‎28T14:24:34.820278500Z
+Wake Source: Unknown"
+Warning	28-07-2025 19:54:35	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	28-07-2025 19:54:35	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+ Please see MASKED_FILE_PATH_102"
+Reason WinRT 
+BootId: 18"
+Reason: Resume from Hibernate."
+Reason: Sleep, Hibernate, or Shutdown."
+Reason SxTransition 
+BootId: 18"
+Time Delta: 12346 ms
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+RTC time: ‎2025‎-‎07‎-‎28T19:54:34.500000000Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Sleep Reason: Application API"
+Reason PolicyChange 
+BootId: 18"
+Warning	28-07-2025 19:53:36	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	28-07-2025 19:53:36	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Sleep Time: ‎2025‎-‎07‎-‎27T12:33:56.050831300Z
+Wake Time: ‎2025‎-‎07‎-‎28T14:23:35.038412200Z
+Wake Source: Unknown"
+ Please see MASKED_FILE_PATH_102"
+Error	28-07-2025 19:53:35	Microsoft-Windows-NDIS	10317	PnP	Miniport Microsoft Wi-Fi Direct Virtual Adapter #2, {MASKED_GUID_148}, had event Fatal error: The miniport has failed a power transition to operational power
+Reason PolicyChange 
+BootId: 18"
+Reason: Lid."
+Warning	28-07-2025 19:53:35	Microsoft-Windows-Time-Service	134	None	NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)
+Reason: Sleep, Hibernate, or Shutdown."
+Reason SxTransition 
+BootId: 18"
+Warning	28-07-2025 19:53:34	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	28-07-2025 19:53:34	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Time Delta: 92976293 ms
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+RTC time: ‎2025‎-‎07‎-‎28T19:53:34.500000000Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Sleep Reason: Application API"
+Reason PolicyChange 
+BootId: 18"
+Warning	27-07-2025 18:03:55	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	27-07-2025 18:03:55	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	27-07-2025 18:03:55	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Reason PolicyChange 
+BootId: 18"
+Reason: Lid."
+Warning	27-07-2025 18:03:12	Microsoft-Windows-Time-Service	134	None	NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)
+Warning	27-07-2025 18:03:11	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	27-07-2025 18:03:11	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Reason 55 
+BootId: 18"
+Service Name:  McAfee Scheduled Task - (McAfee-McOemSubjob-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_111""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Reason: Austerity Battery Drain Budget Exceeded."
+Reason 55 
+BootId: 18"
+Reason: Austerity Battery Drain Budget Exceeded."
+Warning	27-07-2025 11:38:09	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name time.windows.com timed out after none of the configured DNS servers responded. Client PID 4896.
+Time Delta: 0 ms
+Change Reason: An application or system component changed the time.
+Process: 'MASKED_PROCESS_PATH_171' (PID 3020).
+RTC time: ‎2025‎-‎07‎-‎27T11:37:59.262374200Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Reason PolicyChange 
+BootId: 18"
+Reason: Lid."
+Reason PolicyChange 
+BootId: 18"
+Warning	27-07-2025 11:37:57	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	27-07-2025 11:37:57	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	27-07-2025 11:32:16	Netwtw14	6062	None	6062 - Lso was triggered
+Service Name:  Intel® PROSet/Wireless Service
+Service File Name:  ""MASKED_FILE_PATH_95""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Module Path: MASKED_FILE_PATH_91
+"
+Warning	27-07-2025 11:32:09	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+Warning	27-07-2025 11:32:08	Microsoft-Windows-WLAN-AutoConfig	4003	None	"WLAN AutoConfig detected limited connectivity, attempting automatic recovery.
+Recovery Type: 4
+Error Code: 0x0
+Trigger Reason: 5
+IP Family: 0
+"
+Warning	27-07-2025 11:31:59	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name MASKED_URL_140 timed out after none of the configured DNS servers responded. Client PID 16184.
+Warning	27-07-2025 11:23:57	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	27-07-2025 11:23:51	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name login.live.com timed out after none of the configured DNS servers responded. Client PID 17668.
+Service Name:  McAfee Scheduled Task - (McAfee-McOemSubjob-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_111""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	27-07-2025 11:08:43	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	27-07-2025 11:04:40	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Sleep Time: ‎2025‎-‎07‎-‎21T08:03:07.236781900Z
+Wake Time: ‎2025‎-‎07‎-‎27T05:34:39.811558000Z
+Wake Source: Unknown"
+Warning	27-07-2025 11:04:40	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+ Please see MASKED_FILE_PATH_102"
+Error	27-07-2025 11:04:40	Microsoft-Windows-NDIS	10317	PnP	Miniport Microsoft Wi-Fi Direct Virtual Adapter #2, {MASKED_GUID_148}, had event Fatal error: The miniport has failed a power transition to operational power
+Warning	27-07-2025 11:04:39	Microsoft-Windows-Time-Service	134	None	NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)
+Reason PolicyChange 
+BootId: 18"
+Reason: Lid."
+Reason: Sleep, Hibernate, or Shutdown."
+Reason SxTransition 
+BootId: 18"
+Warning	27-07-2025 11:04:39	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	27-07-2025 11:04:39	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Time Delta: 509485378 ms
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+RTC time: ‎2025‎-‎07‎-‎27T11:04:39.500000000Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Sleep Reason: Application API"
+Warning	21-07-2025 13:33:09	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	21-07-2025 13:33:09	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Reason PolicyChange 
+BootId: 18"
+Error	21-07-2025 13:33:04	Microsoft-Windows-DistributedCOM	10010	None	The server 5319275A.WhatsAppDesktop_2.2527.2.0_x64__cv1g1gvanyjgm!App.AppXagyrmpyx1bhhy2gjpvcnfecxpg298mss.mca did not register with DCOM within the required timeout.
+Error	21-07-2025 13:33:04	Microsoft-Windows-DistributedCOM	10010	None	The server Microsoft.Windows.ContentDeliveryManager_10.0.26100.1_neutral_neutral_cw5n1h2txyewy!App.AppXx4zfy1ffv3wctgdz2vypnybzjkh27jhw.mca did not register with DCOM within the required timeout.
+Service Name:  Samsung Analytics Agent
+Service File Name:  ""MASKED_FILE_PATH_112""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Sleep Time: ‎2025‎-‎07‎-‎21T04:36:36.834580000Z
+Wake Time: ‎2025‎-‎07‎-‎21T08:02:01.808200400Z
+Wake Source: Unknown"
+Warning	21-07-2025 13:32:02	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	21-07-2025 13:32:02	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+ Please see MASKED_FILE_PATH_102"
+Service Name:  McAfee Scheduled Task - (McAfee Scheduled Task - (mc-sustainability))
+Service File Name:  ""MASKED_FILE_PATH_89""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Reason PolicyChange 
+BootId: 18"
+Reason: Lid."
+Reason: Sleep, Hibernate, or Shutdown."
+Reason SxTransition 
+BootId: 18"
+Warning	21-07-2025 13:32:01	Microsoft-Windows-Time-Service	134	None	NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)
+Warning	21-07-2025 13:32:01	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	21-07-2025 13:32:01	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Time Delta: 12317728 ms
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+RTC time: ‎2025‎-‎07‎-‎21T13:32:01.500000000Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Warning	21-07-2025 10:06:43	Microsoft-Windows-Time-Service	134	None	NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)
+Sleep Reason: Application API"
+Warning	21-07-2025 10:06:42	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	21-07-2025 10:06:42	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Reason WinRT 
+BootId: 18"
+Warning	21-07-2025 10:05:59	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	21-07-2025 10:05:59	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Sleep Time: ‎2025‎-‎07‎-‎18T10:42:52.553938000Z
+Wake Time: ‎2025‎-‎07‎-‎21T04:35:57.974070500Z
+Wake Source: Unknown"
+ Please see MASKED_FILE_PATH_102"
+Error	21-07-2025 10:05:58	Microsoft-Windows-NDIS	10317	PnP	Miniport Microsoft Wi-Fi Direct Virtual Adapter #2, {MASKED_GUID_148}, had event Fatal error: The miniport has failed a power transition to operational power
+Warning	21-07-2025 10:05:58	Microsoft-Windows-Time-Service	134	None	NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)
+Reason WinRT 
+BootId: 18"
+Reason: Resume from Hibernate."
+Reason: Sleep, Hibernate, or Shutdown."
+Reason SxTransition 
+BootId: 18"
+Time Delta: 237182809 ms
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+RTC time: ‎2025‎-‎07‎-‎21T10:05:57.500000000Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Sleep Reason: Application API"
+Reason PolicyChange 
+BootId: 18"
+Service Name:  McAfee Scheduled Task - (McAfee-McOemSubjob-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_111""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	18-07-2025 15:58:52	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name time-b-g.nist.gov timed out after none of the configured DNS servers responded. Client PID 4896.
+Service Name:  Samsung Update Service
+Service File Name:  ""MASKED_FILE_PATH_113""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	18-07-2025 15:56:10	Netwtw14	6062	None	6062 - Lso was triggered
+Service Name:  McAfee Scheduled Task - (McAfee-McOemSubjob-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_111""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	18-07-2025 15:53:58	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name time-a-g.nist.gov timed out after none of the configured DNS servers responded. Client PID 4896.
+Service Name:  Mozilla Maintenance Service
+Service File Name:  ""MASKED_FILE_PATH_114""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Error	18-07-2025 15:49:03	Microsoft-Windows-WindowsUpdateClient	20	Windows Update Agent	Installation Failure: Windows failed to install the following update with error 0x80073D02: 9P9M1T33NBRZ-SAMSUNGELECTRONICSCO.LTD.SamsungAnalyticsAgent.
+Warning	18-07-2025 15:48:20	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name t-s2-ring.msedge.net timed out after none of the configured DNS servers responded. Client PID 2828.
+Service Name:  McAfee Scheduled Task - (McAfee-McOemSubjob-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_111""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Time Delta: 3 ms
+Change Reason: An application or system component changed the time.
+Process: 'MASKED_PROCESS_PATH_171' (PID 3020).
+RTC time: ‎2025‎-‎07‎-‎18T15:35:39.479017800Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Time Delta: 1269 ms
+Change Reason: An application or system component changed the time.
+Process: 'MASKED_PROCESS_PATH_171' (PID 3020).
+RTC time: ‎2025‎-‎07‎-‎18T15:35:39.471881000Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	18-07-2025 15:34:42	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	18-07-2025 15:34:38	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	18-07-2025 15:34:38	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Sleep Time: ‎2025‎-‎07‎-‎16T15:35:44.807273000Z
+Wake Time: ‎2025‎-‎07‎-‎18T10:04:36.928749800Z
+Wake Source: Unknown"
+ Please see MASKED_FILE_PATH_102"
+Reason PolicyChange 
+BootId: 18"
+Reason: Lid."
+Warning	18-07-2025 15:34:36	Microsoft-Windows-Time-Service	134	None	NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)
+Reason: Sleep, Hibernate, or Shutdown."
+Reason SxTransition 
+BootId: 18"
+Warning	18-07-2025 15:34:36	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	18-07-2025 15:34:36	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Time Delta: 152924590 ms
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+RTC time: ‎2025‎-‎07‎-‎18T15:34:36.500000000Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Sleep Reason: Application API"
+Warning	16-07-2025 21:05:47	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	16-07-2025 21:05:47	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Reason Builtin Panel 
+BootId: 18"
+Reason Builtin Panel 
+BootId: 18"
+Reason: PDC Signal: Windows Biometric Framework Fingerprint."
+Reason: Idle Timeout."
+Reason SessionUnlock 
+BootId: 18"
+Service Name:  McAfee Scheduled Task - (McAfee-McOemSubjob-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_111""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 20:46:17	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_161
+ and MASKED_APPID_165
+ to the user MASKED_DOMAIN_USER_8 SID (MASKED_SID_88-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 20:44:43	Netwtw14	6062	None	6062 - Lso was triggered
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 20:43:46	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name edge-http.microsoft.com timed out after none of the configured DNS servers responded. Client PID 16304.
+Warning	16-07-2025 20:43:32	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name skydrive.wns.windows.com timed out after none of the configured DNS servers responded. Client PID 14684.
+Warning	16-07-2025 20:43:22	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	16-07-2025 20:43:20	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	16-07-2025 20:43:13	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	16-07-2025 20:43:11	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	16-07-2025 20:43:03	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	16-07-2025 20:43:01	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name b.c2r.ts.cdn.office.net timed out after none of the configured DNS servers responded. Client PID 2028.
+Warning	16-07-2025 20:43:01	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	16-07-2025 20:42:56	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	16-07-2025 20:42:55	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name web.whatsapp.com timed out after none of the configured DNS servers responded. Client PID 16304.
+Warning	16-07-2025 20:42:29	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name activity.windows.com timed out after none of the configured DNS servers responded. Client PID 368.
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_90""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 20:38:22	Netwtw14	6062	None	6062 - Lso was triggered
+Reason PolicyChange 
+BootId: 18"
+Reason: Lid."
+Service Name:  McAfee Scheduled Task - (McAfee-McOemSubjob-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_111""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 20:37:18	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	16-07-2025 20:37:18	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Reason PolicyChange 
+BootId: 18"
+Reason: Lid."
+Reason PolicyChange 
+BootId: 18"
+Warning	16-07-2025 20:25:05	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	16-07-2025 20:25:05	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	16-07-2025 20:24:39	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	16-07-2025 20:24:39	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Sleep Time: ‎2025‎-‎07‎-‎16T13:48:28.062680500Z
+Wake Time: ‎2025‎-‎07‎-‎16T14:54:35.813769700Z
+Wake Source: Unknown"
+ Please see MASKED_FILE_PATH_102"
+Error	16-07-2025 20:24:36	Microsoft-Windows-NDIS	10317	PnP	Miniport Microsoft Wi-Fi Direct Virtual Adapter #2, {MASKED_GUID_148}, had event Fatal error: The miniport has failed a power transition to operational power
+Reason PolicyChange 
+BootId: 18"
+Reason: Lid."
+Reason: Sleep, Hibernate, or Shutdown."
+Reason SxTransition 
+BootId: 18"
+Warning	16-07-2025 20:24:35	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	16-07-2025 20:24:35	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Time Delta: 3965268 ms
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+RTC time: ‎2025‎-‎07‎-‎16T20:24:35.500000000Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Warning	16-07-2025 19:18:29	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	16-07-2025 19:18:29	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Sleep Reason: Application API"
+Reason PolicyChange 
+BootId: 18"
+Warning	16-07-2025 19:14:54	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_161
+ and MASKED_APPID_165
+ to the user MASKED_DOMAIN_USER_8 SID (MASKED_SID_88-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	16-07-2025 19:11:16	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name t-ring-fdv2.msedge.net timed out after none of the configured DNS servers responded. Client PID 12732.
+Service Name:  McAfee ELAM Driver
+Service File Name:  \MASKED_DOMAIN_USER_56\MASKED_DOMAIN_USER_57
+Service Type:  kernel mode driver
+Service Start Type:  boot start
+Service Account:  "
+Service Name:  McAfee Security Driver
+Service File Name:  \MASKED_DOMAIN_USER_56\MASKED_DOMAIN_USER_58
+Service Type:  kernel mode driver
+Service Start Type:  boot start
+Service Account:  "
+Service Name:  McAfee Maintenance Service
+Service File Name:  ""\\?\MASKED_FILE_PATH_115"" -update_svc -parent 9696
+Service Type:  user mode service
+Service Start Type:  disabled
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_116""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 18:50:47	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	16-07-2025 18:50:45	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	16-07-2025 18:50:45	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Sleep Time: ‎2025‎-‎07‎-‎16T12:50:29.618140900Z
+Wake Time: ‎2025‎-‎07‎-‎16T13:20:43.930322000Z
+Wake Source: Unknown"
+ Please see MASKED_FILE_PATH_102"
+Reason PolicyChange 
+BootId: 18"
+Reason: Lid."
+Reason: Sleep, Hibernate, or Shutdown."
+Reason SxTransition 
+BootId: 18"
+Warning	16-07-2025 18:50:43	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	16-07-2025 18:50:43	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Time Delta: 1802027 ms
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+RTC time: ‎2025‎-‎07‎-‎16T18:50:43.500000000Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Sleep Reason: Application API"
+Warning	16-07-2025 18:20:30	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	16-07-2025 18:20:30	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Reason WinRT 
+BootId: 18"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_116""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 18:18:51	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	16-07-2025 18:18:35	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name tlu.dl.delivery.mp.microsoft.com timed out after none of the configured DNS servers responded. Client PID 2028.
+Service Name:  Intel® PROSet/Wireless Service
+Service File Name:  ""MASKED_FILE_PATH_95""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Module Path: MASKED_FILE_PATH_91
+"
+Warning	16-07-2025 18:18:19	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+Warning	16-07-2025 18:18:18	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name geover.prod.do.dsp.mp.microsoft.com timed out after none of the configured DNS servers responded. Client PID 2028.
+Warning	16-07-2025 18:18:17	Microsoft-Windows-WLAN-AutoConfig	4003	None	"WLAN AutoConfig detected limited connectivity, attempting automatic recovery.
+Recovery Type: 4
+Error Code: 0x0
+Trigger Reason: 5
+IP Family: 0
+"
+Warning	16-07-2025 18:18:04	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name time.windows.com timed out after none of the configured DNS servers responded. Client PID 4896.
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_116""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 18:17:16	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name download-installer.cdn.mozilla.net timed out after none of the configured DNS servers responded. Client PID 10612.
+Warning	16-07-2025 18:17:14	Netwtw14	6062	None	6062 - Lso was triggered
+Service Name:  Intel® PROSet/Wireless Service
+Service File Name:  ""MASKED_FILE_PATH_95""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Module Path: MASKED_FILE_PATH_91
+"
+Warning	16-07-2025 18:17:00	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+Warning	16-07-2025 18:16:59	Microsoft-Windows-WLAN-AutoConfig	4003	None	"WLAN AutoConfig detected limited connectivity, attempting automatic recovery.
+Recovery Type: 4
+Error Code: 0x0
+Trigger Reason: 5
+IP Family: 0
+"
+Warning	16-07-2025 18:16:22	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name threat.api.mcafee.com timed out after none of the configured DNS servers responded. Client PID 4728.
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_116""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 18:07:39	Netwtw14	6062	None	6062 - Lso was triggered
+Warning	16-07-2025 18:06:26	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name MASKED_URL_141 timed out after none of the configured DNS servers responded. Client PID 14540.
+Error	16-07-2025 18:05:50	Microsoft-Windows-WindowsUpdateClient	20	Windows Update Agent	Installation Failure: Windows failed to install the following update with error 0x80073D02: 9MSSGKG348SP-MicrosoftWindows.Client.WebExperience.
+Warning	16-07-2025 18:05:42	Microsoft-Windows-EnhancedPhishingProtection-Events	8265	None	Aggregated Threat assessment of current system instance
+Time Delta: 0 ms
+Change Reason: An application or system component changed the time.
+Process: 'MASKED_PROCESS_PATH_171' (PID 3020).
+RTC time: ‎2025‎-‎07‎-‎16T18:02:49.587264800Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Time Delta: -5485634 ms
+Change Reason: An application or system component changed the time.
+Process: 'MASKED_PROCESS_PATH_171' (PID 3020).
+RTC time: ‎2025‎-‎07‎-‎16T18:02:49.580505200Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_116""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 19:33:36	Netwtw14	6062	None	6062 - Lso was triggered
+Service Name:  Second Screen
+Service File Name:  ""MASKED_FILE_PATH_117""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  Intel® PROSet/Wireless Service
+Service File Name:  ""MASKED_FILE_PATH_95""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Module Path: MASKED_FILE_PATH_91
+"
+Warning	16-07-2025 19:33:15	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+Module Path: MASKED_FILE_PATH_91
+"
+Warning	16-07-2025 19:33:10	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+Service Name:  Intel® PROSet/Wireless Service
+Service File Name:  ""MASKED_FILE_PATH_118""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Module Path: MASKED_FILE_PATH_91
+"
+Warning	16-07-2025 19:33:07	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+Service Name:  Samsung Continuity Service
+Service File Name:  ""MASKED_FILE_PATH_119""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 19:33:03	Microsoft-Windows-Time-Service	134	None	NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)
+Service Name:  Samsung Analytics Agent
+Service File Name:  ""MASKED_FILE_PATH_120""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  SmartThings
+Service File Name:  ""MASKED_FILE_PATH_121""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 19:32:19	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	16-07-2025 19:32:19	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Sleep Time: ‎2025‎-‎07‎-‎16T10:47:46.575686900Z
+Wake Time: ‎2025‎-‎07‎-‎16T14:02:17.931909700Z
+Wake Source: Unknown"
+ Please see MASKED_FILE_PATH_102"
+Error	16-07-2025 19:32:18	Microsoft-Windows-NDIS	10317	PnP	Miniport Microsoft Wi-Fi Direct Virtual Adapter #2, {MASKED_GUID_148}, had event Fatal error: The miniport has failed a power transition to operational power
+Warning	16-07-2025 19:32:18	Microsoft-Windows-Time-Service	134	None	NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)
+Reason WinRT 
+BootId: 18"
+Reason: Resume from Hibernate."
+Reason: Sleep, Hibernate, or Shutdown."
+Reason SxTransition 
+BootId: 18"
+Time Delta: 11668924 ms
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+RTC time: ‎2025‎-‎07‎-‎16T19:32:17.500000000Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Sleep Reason: Application API"
+Reason PolicyChange 
+BootId: 18"
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+Service Name:  Samsung Account
+Service File Name:  ""MASKED_FILE_PATH_122""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  Quick Share
+Service File Name:  ""MASKED_FILE_PATH_123""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-McOemSubjob-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_111""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 16:11:36	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_161
+ and MASKED_APPID_165
+ to the user MASKED_DOMAIN_USER_8 SID (MASKED_SID_88-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Service Name:  McAfee Scheduled Task - (McAfee-McSyncAgent-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_124""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-McOemSubjob-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_125""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-McSyncAgent-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_124""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Time Delta: 0 ms
+Change Reason: System time adjusted to the new time zone.
+Process: 'MASKED_PROCESS_PATH_173' (PID 1160).
+RTC time: ‎2025‎-‎07‎-‎16T16:08:02.801348700Z
+Current time zone bias: -330
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Warning	16-07-2025 16:07:58	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	16-07-2025 16:07:58	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error	16-07-2025 16:07:53	Microsoft-Windows-DistributedCOM	10010	None	The server {MASKED_GUID_153} did not register with DCOM within the required timeout.
+Service Name:  Multi Control
+Service File Name:  ""MASKED_FILE_PATH_126""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-McSyncAgent-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_124""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  Galaxy Book Experience
+Service File Name:  ""MASKED_FILE_PATH_127""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-McSyncAgent-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_124""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee Scheduled Task - (mc-oobe-fix))
+Service File Name:  ""MASKED_FILE_PATH_128""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-McOemSubjob-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_125""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-McSyncAgent-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_124""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-McSyncAgent-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_124""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_116""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 15:58:43	Netwtw14	6062	None	6062 - Lso was triggered
+Service Name:  McAfee Scheduled Task - (McAfee-McOemSubjob-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_125""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-McSyncAgent-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_124""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_116""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Reason PolicyChange 
+BootId: 18"
+Reason: Lid."
+Warning	16-07-2025 15:57:57	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	16-07-2025 15:57:57	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Reason: Lid."
+Reason PolicyChange 
+BootId: 18"
+Warning	16-07-2025 15:57:55	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	16-07-2025 15:57:55	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Service Name:  McAfee Scheduled Task - (McAfee-McSyncAgent-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_124""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 15:57:05	Microsoft-Windows-DNS-Client	1014	(1014)	Name resolution for the name download.windowsupdate.com timed out after none of the configured DNS servers responded. Client PID 8328.
+Warning	16-07-2025 15:56:44	Netwtw14	6062	None	6062 - Lso was triggered
+Service Name:  McAfee Scheduled Task - (McAfee-McOemSubjob-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_125""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-McSyncAgent-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_124""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-McSyncAgent-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_124""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 15:55:48	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 11 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Warning	16-07-2025 15:55:48	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 7 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Service Name:  McAfee Scheduled Task - (McAfee-McSyncAgent-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_124""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  MpKsla0b02b63
+Service File Name:  MASKED_FILE_PATH_129
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+Warning	16-07-2025 15:54:44	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	16-07-2025 15:54:44	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error	16-07-2025 15:54:42	Service Control Manager	7000	None	"The igccservice service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+Error	16-07-2025 15:54:42	Service Control Manager	7009	None	A timeout was reached (45000 milliseconds) while waiting for the igccservice service to connect.
+Module Path: MASKED_FILE_PATH_91
+"
+"
+ Please see MASKED_FILE_PATH_102"
+For more information please see MASKED_URL_136
+"
+MinimumPasswordLength: 0
+RelaxMinimumPasswordLengthLimits: 0
+MinimumPasswordLengthAudit: -1
+For more information see MASKED_URL_137
+"
+For more information please see MASKED_URL_138"
+Hardware Requirements for Virtualization Based Security:	1
+Domain Joined:	0
+Azure AD Joined:	0
+ Licensed for Credential Guard:	0
+Domain Controller:	0"
+Registry Configuration: 0x0
+Test Configuration: 0
+Auto Enablement: 0"
+Warning	16-07-2025 15:54:39	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DOMAIN_USER_18&MASKED_DOMAIN_USER_19
+Status: 0xC0000365"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 28
+Minimum throttle percentage: 4"
+Warning	16-07-2025 15:54:36	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DEVICE_ID_170\3&11583659&0&20
+Status: 0xC0000365"
+Reason: Leap second data initialized from registry during boot
+Leap seconds enabled: true
+New leap second count: 0
+Old leap second count: 0"
+Warning	16-07-2025 15:54:32	Microsoft-Windows-Hyper-V-Hypervisor	167	None	The hypervisor did not enable mitigations for side channel vulnerabilities for virtual machines because HyperThreading is enabled. To enable mitigations for virtual machines, disable HyperThreading.
+Processor not affected: true
+Processor family not affected: false
+Processor supports microarchitectural buffer flush: false
+Buffer flush needed: true
+"
+Processor not affected: true
+Processor family not affected: false
+Processor supports cache flush: true
+HyperThreading enabled: false
+Parent hypervisor applies mitigations: false
+Mitigations disabled by bcdedit: false
+Mitigations enabled: true
+Cache flush needed: false
+"
+Hardware present: true
+Hardware enabled: true
+Policy: 0x0
+Enabled features: 0x43
+Internal information: 0x0
+Problems: 0x0
+Additional information: 0x0"
+Loader time: ‎2025‎-‎07‎-‎16T10:24:31.000000000Z
+Internal boot flags: 0x2
+HAL RTC error code: 0x0
+RTC time is in UTC: false
+Soft boot: false
+Success: true
+Phase: 0"
+Action: Power Action Reboot 
+Event Code: 0x0 
+Reason: Kernel API"
+"
+Warning	16-07-2025 15:54:19	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+Error	16-07-2025 15:54:18	Microsoft-Windows-DeviceAssociationService	3503	(5000)	Device Association Service detected an endpoint discovery failure.
+Error	16-07-2025 15:54:18	Service Control Manager	7043	None	The Windows Update service did not shut down properly after receiving a preshutdown control.
+ Reason Code: 0x20004
+ Shutdown Type: restart
+ Comment: "
+Service Name:  McAfee Scheduled Task - (McAfee-McSyncAgent-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_124""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_116""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 15:52:51	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 11 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Warning	16-07-2025 15:52:51	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 7 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Warning	16-07-2025 15:52:47	Netwtw14	6062	None	6062 - Lso was triggered
+Service Name:  McAfee Scheduled Task - (McAfee-McOemSubjob-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_125""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-McSyncAgent-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_124""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Service Name:  McAfee Scheduled Task - (McAfee-McSyncAgent-41)
+Service File Name:  ""\\?\MASKED_FILE_PATH_124""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 15:51:50	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	16-07-2025 15:51:50	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+ Please see MASKED_FILE_PATH_130"
+Error	16-07-2025 15:51:46	Service Control Manager	7000	None	"The igccservice service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+Error	16-07-2025 15:51:46	Service Control Manager	7009	None	A timeout was reached (45000 milliseconds) while waiting for the igccservice service to connect.
+Module Path: MASKED_FILE_PATH_91
+"
+"
+For more information please see MASKED_URL_136
+"
+MinimumPasswordLength: 0
+RelaxMinimumPasswordLengthLimits: 0
+MinimumPasswordLengthAudit: -1
+For more information see MASKED_URL_137
+"
+For more information please see MASKED_URL_138"
+Hardware Requirements for Virtualization Based Security:	1
+Domain Joined:	0
+Azure AD Joined:	0
+ Licensed for Credential Guard:	0
+Domain Controller:	0"
+Registry Configuration: 0x0
+Test Configuration: 0
+Auto Enablement: 0"
+Warning	16-07-2025 15:51:42	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DOMAIN_USER_18&MASKED_DOMAIN_USER_19
+Status: 0xC0000365"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 28
+Minimum throttle percentage: 4"
+Warning	16-07-2025 15:51:39	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DEVICE_ID_170\3&11583659&0&20
+Status: 0xC0000365"
+Reason: Leap second data initialized from registry during boot
+Leap seconds enabled: true
+New leap second count: 0
+Old leap second count: 0"
+Warning	16-07-2025 15:51:36	Microsoft-Windows-Hyper-V-Hypervisor	167	None	The hypervisor did not enable mitigations for side channel vulnerabilities for virtual machines because HyperThreading is enabled. To enable mitigations for virtual machines, disable HyperThreading.
+Processor not affected: true
+Processor family not affected: false
+Processor supports microarchitectural buffer flush: false
+Buffer flush needed: true
+"
+Processor not affected: true
+Processor family not affected: false
+Processor supports cache flush: true
+HyperThreading enabled: false
+Parent hypervisor applies mitigations: false
+Mitigations disabled by bcdedit: false
+Mitigations enabled: true
+Cache flush needed: false
+"
+Hardware present: true
+Hardware enabled: true
+Policy: 0x0
+Enabled features: 0x43
+Internal information: 0x0
+Problems: 0x0
+Additional information: 0x0"
+Loader time: ‎2025‎-‎07‎-‎16T10:21:33.000000000Z
+Internal boot flags: 0x2
+HAL RTC error code: 0x0
+RTC time is in UTC: false
+Soft boot: false
+Success: true
+Phase: 0"
+Action: Power Action Reboot 
+Event Code: 0x0 
+Reason: Kernel API"
+"
+Warning	16-07-2025 15:51:21	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+Error	16-07-2025 15:51:20	Microsoft-Windows-DeviceAssociationService	3503	(5000)	Device Association Service detected an endpoint discovery failure.
+Error	16-07-2025 15:51:15	Microsoft-Windows-DistributedCOM	10010	None	The server {MASKED_GUID_155} did not register with DCOM within the required timeout.
+Error	16-07-2025 15:51:15	Microsoft-Windows-DistributedCOM	10010	None	The server {MASKED_GUID_155} did not register with DCOM within the required timeout.
+Error	16-07-2025 15:51:15	Microsoft-Windows-DistributedCOM	10010	None	The server {MASKED_GUID_155} did not register with DCOM within the required timeout.
+ Reason Code: 0x20004
+ Shutdown Type: restart
+ Comment: "
+Warning	16-07-2025 15:50:01	Netwtw14	6062	None	6062 - Lso was triggered
+Service Name:  McAfee Scheduled Task - (McAfee Scheduled Task - (mc-sustainability))
+Service File Name:  ""MASKED_FILE_PATH_131""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Warning	16-07-2025 15:49:57	Microsoft-Windows-Time-Service	52	None	The time service has set the time with offset 4321606 seconds.
+Time Delta: 4321606263 ms
+Change Reason: An application or system component changed the time.
+Process: 'MASKED_PROCESS_PATH_171' (PID 4884).
+RTC time: ‎2025‎-‎07‎-‎16T03:19:57.532000000Z
+Current time zone bias: 420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_132""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Error	27-05-2025 15:22:13	Service Control Manager	7023	None	"The McAfee Scheduled Task - (McAfee-Dynamicappdownloader) service terminated with the following error: 
+Incorrect function."
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_132""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Error	27-05-2025 15:21:03	Service Control Manager	7023	None	"The McAfee Scheduled Task - (McAfee-Dynamicappdownloader) service terminated with the following error: 
+Incorrect function."
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_132""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Error	27-05-2025 15:20:33	Service Control Manager	7023	None	"The McAfee Scheduled Task - (McAfee-Dynamicappdownloader) service terminated with the following error: 
+Incorrect function."
+Service Name:  McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+Service File Name:  ""MASKED_FILE_PATH_132""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Reason PolicyChange 
+BootId: 16"
+Reason: Lid."
+Warning	27-05-2025 15:18:52	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	27-05-2025 15:18:52	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Reason InputMouse 
+BootId: 16"
+Reason: 16777220."
+Reason 16777220 
+BootId: 16"
+Reason: 16777220."
+Reason InputMouse 
+BootId: 16"
+Reason: 16777220."
+Reason 16777220 
+BootId: 16"
+Reason: 16777220."
+Reason InputMouse 
+BootId: 16"
+Reason: 16777220."
+Reason 16777220 
+BootId: 16"
+Reason: 16777220."
+Reason InputMouse 
+BootId: 16"
+Reason: 16777220."
+Reason 16777220 
+BootId: 16"
+Reason: 16777220."
+Reason InputMouse 
+BootId: 16"
+Reason: 16777220."
+Reason 16777220 
+BootId: 16"
+Reason: 16777220."
+Reason InputMouse 
+BootId: 16"
+Reason: AC/DC Display Burst Suppressed."
+Reason InputMouse 
+BootId: 16"
+Reason: AC/DC Display Burst Suppressed."
+Reason InputMouse 
+BootId: 16"
+Reason: AC/DC Display Burst Suppressed."
+Reason InputMouse 
+BootId: 16"
+Reason: AC/DC Display Burst Suppressed."
+Reason PolicyChange 
+BootId: 16"
+Service Name:  McAfee Scheduled Task - (McAfee Scheduled Task - (mc-sustainability))
+Service File Name:  ""MASKED_FILE_PATH_131""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Reason: 16777220."
+Reason 16777220 
+BootId: 16"
+Reason: 16777220."
+Reason PolicyChange 
+BootId: 16"
+Service Name:  McAfee Scheduled Task - (McAfee Scheduled Task - (mc-sustainability))
+Service File Name:  ""MASKED_FILE_PATH_131""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  MASKED_ACCOUNT_NAME_160"
+Reason: 16777220."
+Reason 16777220 
+BootId: 16"
+Reason: 16777220."
+Reason PolicyChange 
+BootId: 16"
+Warning	27-05-2025 12:33:18	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	27-05-2025 12:33:18	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Reason: Lid."
+Reason PolicyChange 
+BootId: 16"
+Reason: Lid."
+Reason: Power Button."
+Reason Unknown 
+BootId: 16"
+Service Name:  MpKsl20cb5199
+Service File Name:  MASKED_FILE_PATH_129
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+Time Delta: 0 ms
+Change Reason: System time adjusted to the new time zone.
+Process: 'MASKED_PROCESS_PATH_174' (PID 1760).
+RTC time: ‎2025‎-‎05‎-‎27T00:02:10.632739400Z
+Current time zone bias: 420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Warning	27-05-2025 12:32:08	Microsoft-Windows-Bits-Client	16385	None	"While canceling job ""NucleusUpdateRingConfigJSON"", BITS was unable to remove some temporary files. To recover disk space, delete the files listed below.  The job ID was {MASKED_GUID_156}.      MASKED_FILE_PATH_133
+"
+Reason PolicyChange 
+BootId: 16"
+Reason: Lid."
+Warning	27-05-2025 12:31:28	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	27-05-2025 12:31:28	Win32k	701	None	Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning	27-05-2025 12:31:21	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 11 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Warning	27-05-2025 12:31:21	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 7 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Reason: Lid."
+Reason PolicyChange 
+BootId: 16"
+Reason: Lid."
+Warning	27-05-2025 12:31:04	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning	27-05-2025 12:31:04	Win32k	700	None	Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Reason: Power Button."
+Reason Unknown 
+BootId: 16"
+Warning	27-05-2025 12:30:17	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	27-05-2025 12:30:17	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error	27-05-2025 12:30:15	Service Control Manager	7000	None	"The igccservice service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+Error	27-05-2025 12:30:15	Service Control Manager	7009	None	A timeout was reached (45000 milliseconds) while waiting for the igccservice service to connect.
+Module Path: MASKED_FILE_PATH_91
+"
+"
+ Please see MASKED_FILE_PATH_134"
+For more information please see MASKED_URL_136
+"
+MinimumPasswordLength: 0
+RelaxMinimumPasswordLengthLimits: 0
+MinimumPasswordLengthAudit: -1
+For more information see MASKED_URL_137
+"
+For more information please see MASKED_URL_138"
+Hardware Requirements for Virtualization Based Security:	1
+Domain Joined:	0
+Azure AD Joined:	0
+ Licensed for Credential Guard:	0
+Domain Controller:	0"
+Registry Configuration: 0x0
+Test Configuration: 0
+Auto Enablement: 0"
+Warning	27-05-2025 12:30:11	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DOMAIN_USER_18&MASKED_DOMAIN_USER_19
+Status: 0xC0000365"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 28
+Minimum throttle percentage: 4"
+Warning	27-05-2025 12:30:08	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DEVICE_ID_170\3&11583659&0&20
+Status: 0xC0000365"
+Reason: Leap second data initialized from registry during boot
+Leap seconds enabled: true
+New leap second count: 0
+Old leap second count: 0"
+Warning	27-05-2025 12:30:04	Microsoft-Windows-Hyper-V-Hypervisor	167	None	The hypervisor did not enable mitigations for side channel vulnerabilities for virtual machines because HyperThreading is enabled. To enable mitigations for virtual machines, disable HyperThreading.
+Processor not affected: true
+Processor family not affected: false
+Processor supports microarchitectural buffer flush: false
+Buffer flush needed: true
+"
+Processor not affected: true
+Processor family not affected: false
+Processor supports cache flush: true
+HyperThreading enabled: false
+Parent hypervisor applies mitigations: false
+Mitigations disabled by bcdedit: false
+Mitigations enabled: true
+Cache flush needed: false
+"
+Hardware present: true
+Hardware enabled: true
+Policy: 0x0
+Enabled features: 0x43
+Internal information: 0x0
+Problems: 0x0
+Additional information: 0x0"
+Loader time: ‎2025‎-‎05‎-‎27T07:00:03.000000000Z
+Internal boot flags: 0x2
+HAL RTC error code: 0x0
+RTC time is in UTC: false
+Soft boot: false
+Success: true
+Phase: 0"
+Action: Power Action Shutdown 
+Event Code: 0x0 
+Reason: Kernel API"
+"
+Warning	27-05-2025 12:43:57	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+Error	27-05-2025 12:43:57	Microsoft-Windows-DeviceAssociationService	3503	(5000)	Device Association Service detected an endpoint discovery failure.
+ Reason Code: 0x800000ff
+ Shutdown Type: shutdown
+ Comment: "
+Warning	27-05-2025 12:43:47	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 11 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Warning	27-05-2025 12:43:47	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 7 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Service Name:  WPD File System driver
+Service File Name:  \MASKED_DOMAIN_USER_56\MASKED_DOMAIN_USER_80
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+Warning	27-05-2025 12:42:57	Microsoft-Windows-DistributedCOM	10016	None	"The machine-default permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_164
+ and MASKED_APPID_168
+ to the user NT MASKED_DOMAIN_USER_81 SERVICE SID (S-1-5-20) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+ Please see MASKED_FILE_PATH_135"
+Warning	27-05-2025 12:42:52	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning	27-05-2025 12:42:52	Microsoft-Windows-DistributedCOM	10016	None	"The application-specific permission settings do not grant Local Activation permission for the COM Server application with MASKED_CLSID_162
+ and MASKED_APPID_166
+ to the user NT MASKED_DOMAIN_USER_13 SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Time Delta: 0 ms
+Change Reason: System time adjusted to the new time zone.
+Process: 'MASKED_PROCESS_PATH_175' (PID 2136).
+RTC time: ‎2025‎-‎05‎-‎27T00:12:48.961525200Z
+Current time zone bias: 420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Warning	27-05-2025 12:42:48	Microsoft-Windows-Time-Service	134	None	NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)
+Error	27-05-2025 12:42:48	Service Control Manager	7000	None	"The igccservice service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+Error	27-05-2025 12:42:48	Service Control Manager	7009	None	A timeout was reached (45000 milliseconds) while waiting for the igccservice service to connect.
+Module Path: MASKED_FILE_PATH_91
+"
+"
+Warning	27-05-2025 12:42:47	Microsoft-Windows-Time-Service	134	None	NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)
+For more information please see MASKED_URL_136
+"
+MinimumPasswordLength: 0
+RelaxMinimumPasswordLengthLimits: 0
+MinimumPasswordLengthAudit: -1
+For more information see MASKED_URL_137
+"
+For more information please see MASKED_URL_138"
+Hardware Requirements for Virtualization Based Security:	1
+Domain Joined:	0
+Azure AD Joined:	0
+ Licensed for Credential Guard:	0
+Domain Controller:	0"
+Registry Configuration: 0x0
+Test Configuration: 0
+Auto Enablement: 0"
+Warning	27-05-2025 12:42:36	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DOMAIN_USER_18&MASKED_DOMAIN_USER_19
+Status: 0xC0000365"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 28
+Minimum throttle percentage: 4"
+Warning	27-05-2025 12:42:34	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DEVICE_ID_170\3&11583659&0&20
+Status: 0xC0000365"
+Reason: Leap second data initialized from registry during boot
+Leap seconds enabled: true
+New leap second count: 0
+Old leap second count: 0"
+Warning	27-05-2025 12:42:31	Microsoft-Windows-Hyper-V-Hypervisor	167	None	The hypervisor did not enable mitigations for side channel vulnerabilities for virtual machines because HyperThreading is enabled. To enable mitigations for virtual machines, disable HyperThreading.
+Processor not affected: true
+Processor family not affected: false
+Processor supports microarchitectural buffer flush: false
+Buffer flush needed: true
+"
+Processor not affected: true
+Processor family not affected: false
+Processor supports cache flush: true
+HyperThreading enabled: false
+Parent hypervisor applies mitigations: false
+Mitigations disabled by bcdedit: false
+Mitigations enabled: true
+Cache flush needed: false
+"
+Hardware present: true
+Hardware enabled: true
+Policy: 0x0
+Enabled features: 0x43
+Internal information: 0x0
+Problems: 0x0
+Additional information: 0x0"
+Loader time: ‎2025‎-‎05‎-‎27T07:12:29.000000000Z
+Internal boot flags: 0x2
+HAL RTC error code: 0x0
+RTC time is in UTC: false
+Soft boot: false
+Success: true
+Phase: 0"
+Action: Power Action Reboot 
+Event Code: 0x0 
+Reason: Kernel API"
+"
+Warning	27-05-2025 12:42:16	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+ Reason Code: 0x80020003
+ Shutdown Type: restart
+ Comment: "
+Error	27-05-2025 12:42:05	Service Control Manager	7023	None	"The Network List Service service terminated with the following error: 
+The device is not ready."
+Error	27-05-2025 12:42:05	Microsoft-Windows-DistributedCOM	10010	None	The server {MASKED_GUID_159} did not register with DCOM within the required timeout.
+Warning	27-05-2025 12:41:04	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 11 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Warning	27-05-2025 12:41:04	Microsoft-Windows-Kernel-Processor-Power	37	(7)	The speed of processor 7 in group 0 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report.
+Module Path: MASKED_FILE_PATH_91
+"
+"
+Error	27-05-2025 12:40:11	Service Control Manager	7000	None	"The igccservice service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+Error	27-05-2025 12:40:11	Service Control Manager	7009	None	A timeout was reached (45000 milliseconds) while waiting for the igccservice service to connect.
+Error	27-05-2025 12:40:10	Service Control Manager	7023	None	"The cplspcon service terminated with the following error: 
+Unspecified error"
+Error	27-05-2025 12:40:05	Service Control Manager	7023	None	"The netprofm service terminated with the following error: 
+The device is not ready."
+For more information please see MASKED_URL_136
+"
+MinimumPasswordLength: 0
+RelaxMinimumPasswordLengthLimits: 0
+MinimumPasswordLengthAudit: -1
+For more information see MASKED_URL_137
+"
+For more information please see MASKED_URL_138"
+Hardware Requirements for Virtualization Based Security:	1
+Domain Joined:	0
+Azure AD Joined:	0
+ Licensed for Credential Guard:	0
+Domain Controller:	0"
+Registry Configuration: 0x0
+Test Configuration: 0
+Auto Enablement: 0"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 217
+Minimum performance percentage: 100
+Minimum throttle percentage: 5"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 100
+Minimum throttle percentage: 4"
+Idle state type: Micro Power Engine Plugin (11 state(s))
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 1700
+Maximum performance percentage: 304
+Minimum performance percentage: 28
+Minimum throttle percentage: 4"
+Warning	27-05-2025 12:39:52	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DEVICE_ID_170\3&11583659&0&20
+Status: 0xC0000365"
+Warning	27-05-2025 12:39:52	Microsoft-Windows-Kernel-PnP	219	(212)	"The driver \MASKED_DOMAIN_USER_17 failed to load.
+Device: MASKED_DOMAIN_USER_18&MASKED_DOMAIN_USER_19
+Status: 0xC0000365"
+Reason: Leap second data initialized from registry during boot
+Leap seconds enabled: true
+New leap second count: 0
+Old leap second count: 0"
+Warning	27-05-2025 12:39:50	Microsoft-Windows-Hyper-V-Hypervisor	167	None	The hypervisor did not enable mitigations for side channel vulnerabilities for virtual machines because HyperThreading is enabled. To enable mitigations for virtual machines, disable HyperThreading.
+Processor not affected: true
+Processor family not affected: false
+Processor supports microarchitectural buffer flush: false
+Buffer flush needed: true
+"
+Processor not affected: true
+Processor family not affected: false
+Processor supports cache flush: true
+HyperThreading enabled: false
+Parent hypervisor applies mitigations: false
+Mitigations disabled by bcdedit: false
+Mitigations enabled: true
+Cache flush needed: false
+"
+Hardware present: true
+Hardware enabled: true
+Policy: 0x0
+Enabled features: 0x43
+Internal information: 0x0
+Problems: 0x0
+Additional information: 0x0"
+Loader time: ‎2025‎-‎05‎-‎27T07:09:48.000000000Z
+Internal boot flags: 0x2
+HAL RTC error code: 0x0
+RTC time is in UTC: false
+Soft boot: false
+Success: true
+Phase: 0"
+Action: Power Action Reboot 
+Event Code: 0x0 
+Reason: Kernel API"
+"
+Warning	28-10-2024 13:35:13	Microsoft-Windows-WLAN-AutoConfig	10002	None	"WLAN Extensibility Module has stopped.
+Module Path: MASKED_FILE_PATH_91
+"
+Error	28-10-2024 13:35:13	Microsoft-Windows-DeviceAssociationService	3503	(5000)	Device Association Service detected an endpoint discovery failure.
+ Reason Code: 0x800000ff
+ Shutdown Type: restart
+ Comment: "
+Service Name:  Intel® Smart Sound Technology MIPI SoundWire® Controller
+Service File Name:  \MASKED_DOMAIN_USER_84\MASKED_DOMAIN_USER_26\MASKED_DOMAIN_USER_85
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+Service Name:  Intel(R) Graphics System Controller Firmware Interface
+Service File Name:  \MASKED_DOMAIN_USER_84\MASKED_DOMAIN_USER_26\MASKED_DOMAIN_USER_86
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+Service Name:  Intel(R) Graphics System Controller Auxiliary Firmware Interface
+Service File Name:  \MASKED_DOMAIN_USER_84\MASKED_DOMAIN_USER_26\MASKED_DOMAIN_USER_87
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
